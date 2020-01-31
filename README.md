@@ -4,7 +4,7 @@
 # 说明
 网站整合了近期在朋友圈刷屏了的一些常用站点、科普文章、动态专题等，方便大家搜藏后，在一个地方查看
 
-访问地址1：jiayou.beiyouren.cn/jiayou/ （推荐电脑端访问，效果更佳）
+访问地址1：http://jiayou.beiyouren.cn/jiayou/ （推荐电脑端访问，效果更佳）
 
 ![](https://ftp.bmp.ovh/imgs/2020/01/25328c2e8c9bab55.png)
 
