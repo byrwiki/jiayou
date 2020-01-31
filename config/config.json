@@ -1,0 +1,59 @@
+{
+  "sites": [
+    {
+      "name": "百度搜索",
+      "id": "baidu",
+      "queryUrl": "https://www.baidu.com/s?wd={}"
+    },
+	{
+	  "name": "搜狗搜索",
+	  "id": "sougou",
+	  "queryUrl": "https://www.sogou.com/web?query={}"
+	},
+	
+	{
+	  "name": "知乎搜索",
+	  "id": "zhihu",
+	  "queryUrl": "https://www.zhihu.com/search?q={}"
+	},
+    {
+      "name": "百度新闻",
+      "id": "baidunews",
+      "queryUrl": "https://www.baidu.com/s?rtt=1&bsst=1&cl=2&tn=news&word={}"
+    },
+    {
+      "name": "搜狗新闻",
+      "id": "sogou",
+      "queryUrl": "https://news.sogou.com/news?query={}"
+    },
+		
+    {
+      "name": "京东",
+      "id": "jd",
+      "queryUrl": "http://search.jd.com/Search?enc=utf-8&keyword={}"
+    },
+
+    {
+      "name": "微信",
+      "id": "weixin",
+      "queryUrl": "http://weixin.sogou.com/weixin?type=2&query={}&ie=utf8"
+		},
+
+    {
+      "name": "微博",
+      "id": "weibo",
+      "queryUrl": "http://s.weibo.com/weibo/{}"
+    },
+    {
+      "name": "豆瓣",
+      "id": "douban",
+      "queryUrl": "https://www.douban.com/search?q={}"
+    },
+		
+    {
+      "name": "地图",
+      "id": "ditu",
+      "queryUrl": "http://ditu.amap.com/search?query={} "
+    }
+  ]
+}
